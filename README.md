@@ -1,2 +1,1 @@
-# trex_colo1
-trex_color_Sofia1
+# PROC18_LP_AM1
